@@ -1,0 +1,3 @@
+# FragmentTabHostUtils
+android底部导航封装
+android常用底部导航封装，适用于大多数导航布局。点击底部button切换不同的fragment
